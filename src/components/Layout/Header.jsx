@@ -14,7 +14,7 @@ import {
 const headerData = {
   name: "Rishabh Gupta",
   designation: "",
-  imageThumb: "/images/rishabh logo.png",
+  imageThumb: "/images/rishabh logo.jpeg",
   social: {
     linkedin: "https://www.linkedin.com/in/rishabh-gupta-80a291198/",
     facebook: "https://facebook.com",

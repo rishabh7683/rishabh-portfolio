@@ -3,13 +3,13 @@ import { Link as ScrollLink } from "react-scroll";
 
 const aboutData = {
   cvpath: "media/Rishabh Gupta Resume.pdf",
-  image: "images/rishabh logo.png",
+  image: "images/rishabh logo.jpeg",
   name: "Rishabh Gupta",
-  location: "Delhi, India",
+  location: "Bhopal, India",
   contact: "+91 8839464025",
   email: "rishabhgupta.me@gmail.com",
   aboutMe:
-    "I am Rishabh Gupta, passionate software engineer specialized in building full stack web applications for the individuals and businesses.",
+    "I am Rishabh Gupta, passionate software developer who loves building products that people love.",
 };
 
 function About() {
